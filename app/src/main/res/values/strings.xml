@@ -1,0 +1,9 @@
+<resources>
+    <!-- TODO change name, url and notification Prefix -->
+    <string name="app_name">Feuerwehr Suhl</string>
+    <string name="action_settings">Settings</string>
+    <string name="website_url">http://www.feuerwehrsuhl.de</string>
+    <string name="feed_url">http://www.feuerwehrsuhl.de/feed</string>
+    <string name="app_nav_domain">feuerwehrsuhl.de</string>
+    <string name="notify_content_title">Neuer Artikel in</string>
+</resources>

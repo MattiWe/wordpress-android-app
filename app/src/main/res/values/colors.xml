@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TODO choose fitting colors -->
+    <color name="colorPrimary">#8a0000</color>
+    <color name="colorPrimaryDark">#8a0000</color>
+    <color name="colorAccent">#8a0000</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorTextPrimary">#FFFFFF</color>
+    <color name="darkRed">#8a0000</color>
+</resources>
